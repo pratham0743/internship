@@ -1,0 +1,327 @@
+orderNumber,customerName,status
+10123,"Atelier graphique",Shipped
+10298,"Atelier graphique",Shipped
+10345,"Atelier graphique",Shipped
+10124,"Signal Gift Stores",Shipped
+10278,"Signal Gift Stores",Shipped
+10346,"Signal Gift Stores",Shipped
+10120,"Australian Collectors, Co.",Shipped
+10125,"Australian Collectors, Co.",Shipped
+10223,"Australian Collectors, Co.",Shipped
+10342,"Australian Collectors, Co.",Shipped
+10347,"Australian Collectors, Co.",Shipped
+10275,"La Rochelle Gifts",Shipped
+10315,"La Rochelle Gifts",Shipped
+10375,"La Rochelle Gifts",Shipped
+10425,"La Rochelle Gifts","In Process"
+10103,"Baane Mini Imports",Shipped
+10158,"Baane Mini Imports",Shipped
+10309,"Baane Mini Imports",Shipped
+10325,"Baane Mini Imports",Shipped
+10113,"Mini Gifts Distributors Ltd.",Shipped
+10135,"Mini Gifts Distributors Ltd.",Shipped
+10142,"Mini Gifts Distributors Ltd.",Shipped
+10182,"Mini Gifts Distributors Ltd.",Shipped
+10229,"Mini Gifts Distributors Ltd.",Shipped
+10271,"Mini Gifts Distributors Ltd.",Shipped
+10282,"Mini Gifts Distributors Ltd.",Shipped
+10312,"Mini Gifts Distributors Ltd.",Shipped
+10335,"Mini Gifts Distributors Ltd.",Shipped
+10357,"Mini Gifts Distributors Ltd.",Shipped
+10368,"Mini Gifts Distributors Ltd.",Shipped
+10371,"Mini Gifts Distributors Ltd.",Shipped
+10382,"Mini Gifts Distributors Ltd.",Shipped
+10385,"Mini Gifts Distributors Ltd.",Shipped
+10390,"Mini Gifts Distributors Ltd.",Shipped
+10396,"Mini Gifts Distributors Ltd.",Shipped
+10421,"Mini Gifts Distributors Ltd.","In Process"
+10101,"Blauer See Auto, Co.",Shipped
+10230,"Blauer See Auto, Co.",Shipped
+10300,"Blauer See Auto, Co.",Shipped
+10323,"Blauer See Auto, Co.",Shipped
+10111,"Mini Wheels Co.",Shipped
+10201,"Mini Wheels Co.",Shipped
+10333,"Mini Wheels Co.",Shipped
+10107,"Land of Toys Inc.",Shipped
+10248,"Land of Toys Inc.",Cancelled
+10292,"Land of Toys Inc.",Shipped
+10329,"Land of Toys Inc.",Shipped
+10104,"Euro+ Shopping Channel",Shipped
+10128,"Euro+ Shopping Channel",Shipped
+10133,"Euro+ Shopping Channel",Shipped
+10153,"Euro+ Shopping Channel",Shipped
+10156,"Euro+ Shopping Channel",Shipped
+10190,"Euro+ Shopping Channel",Shipped
+10203,"Euro+ Shopping Channel",Shipped
+10205,"Euro+ Shopping Channel",Shipped
+10212,"Euro+ Shopping Channel",Shipped
+10244,"Euro+ Shopping Channel",Shipped
+10246,"Euro+ Shopping Channel",Shipped
+10262,"Euro+ Shopping Channel",Cancelled
+10279,"Euro+ Shopping Channel",Shipped
+10311,"Euro+ Shopping Channel",Shipped
+10350,"Euro+ Shopping Channel",Shipped
+10355,"Euro+ Shopping Channel",Shipped
+10358,"Euro+ Shopping Channel",Shipped
+10378,"Euro+ Shopping Channel",Shipped
+10379,"Euro+ Shopping Channel",Shipped
+10380,"Euro+ Shopping Channel",Shipped
+10383,"Euro+ Shopping Channel",Shipped
+10386,"Euro+ Shopping Channel",Resolved
+10394,"Euro+ Shopping Channel",Shipped
+10412,"Euro+ Shopping Channel",Shipped
+10417,"Euro+ Shopping Channel",Disputed
+10424,"Euro+ Shopping Channel","In Process"
+10112,"Volvo Model Replicas, Co",Shipped
+10320,"Volvo Model Replicas, Co",Shipped
+10326,"Volvo Model Replicas, Co",Shipped
+10334,"Volvo Model Replicas, Co","On Hold"
+10105,"Danish Wholesale Imports",Shipped
+10238,"Danish Wholesale Imports",Shipped
+10256,"Danish Wholesale Imports",Shipped
+10327,"Danish Wholesale Imports",Resolved
+10406,"Danish Wholesale Imports",Disputed
+10194,"Saveley & Henriot, Co.",Shipped
+10208,"Saveley & Henriot, Co.",Shipped
+10227,"Saveley & Henriot, Co.",Shipped
+10117,"Dragon Souveniers, Ltd.",Shipped
+10150,"Dragon Souveniers, Ltd.",Shipped
+10165,"Dragon Souveniers, Ltd.",Shipped
+10277,"Dragon Souveniers, Ltd.",Shipped
+10387,"Dragon Souveniers, Ltd.",Shipped
+10127,"Muscle Machine Inc",Shipped
+10204,"Muscle Machine Inc",Shipped
+10267,"Muscle Machine Inc",Shipped
+10349,"Muscle Machine Inc",Shipped
+10272,"Diecast Classics Inc.",Shipped
+10281,"Diecast Classics Inc.",Shipped
+10318,"Diecast Classics Inc.",Shipped
+10422,"Diecast Classics Inc.","In Process"
+10140,"Technics Stores Inc.",Shipped
+10168,"Technics Stores Inc.",Shipped
+10317,"Technics Stores Inc.",Shipped
+10362,"Technics Stores Inc.",Shipped
+10217,"Handji Gifts& Co",Shipped
+10259,"Handji Gifts& Co",Shipped
+10288,"Handji Gifts& Co",Shipped
+10409,"Handji Gifts& Co",Shipped
+10181,"Herkku Gifts",Shipped
+10188,"Herkku Gifts",Shipped
+10289,"Herkku Gifts",Shipped
+10180,"Daedalus Designs Imports",Shipped
+10224,"Daedalus Designs Imports",Shipped
+10114,"La Corne D'abondance, Co.",Shipped
+10286,"La Corne D'abondance, Co.",Shipped
+10336,"La Corne D'abondance, Co.",Shipped
+10228,"Cambridge Collectables Co.",Shipped
+10249,"Cambridge Collectables Co.",Shipped
+10172,"Gift Depot Inc.",Shipped
+10263,"Gift Depot Inc.",Shipped
+10413,"Gift Depot Inc.",Shipped
+10210,"Osaka Souveniers Co.",Shipped
+10240,"Osaka Souveniers Co.",Shipped
+10102,"Vitachrome Inc.",Shipped
+10237,"Vitachrome Inc.",Shipped
+10324,"Vitachrome Inc.",Shipped
+10155,"Toys of Finland, Co.",Shipped
+10299,"Toys of Finland, Co.",Shipped
+10377,"Toys of Finland, Co.",Shipped
+10110,"AV Stores, Co.",Shipped
+10306,"AV Stores, Co.",Shipped
+10332,"AV Stores, Co.",Shipped
+10220,"Clover Collections, Co.",Shipped
+10297,"Clover Collections, Co.",Shipped
+10130,"Auto-Moto Classics Inc.",Shipped
+10290,"Auto-Moto Classics Inc.",Shipped
+10352,"Auto-Moto Classics Inc.",Shipped
+10253,"UK Collectables, Ltd.",Cancelled
+10302,"UK Collectables, Ltd.",Shipped
+10403,"UK Collectables, Ltd.",Shipped
+10206,"Canadian Gift Exchange Network",Shipped
+10313,"Canadian Gift Exchange Network",Shipped
+10276,"Online Mini Collectables",Shipped
+10294,"Online Mini Collectables",Shipped
+10145,Toys4GrownUps.com,Shipped
+10189,Toys4GrownUps.com,Shipped
+10367,Toys4GrownUps.com,Resolved
+10241,"Mini Caravy",Shipped
+10255,"Mini Caravy",Shipped
+10405,"Mini Caravy",Shipped
+10187,"King Kong Collectables, Co.",Shipped
+10200,"King Kong Collectables, Co.",Shipped
+10118,"Enaco Distributors",Shipped
+10197,"Enaco Distributors",Shipped
+10340,"Enaco Distributors",Shipped
+10154,"Boards & Toys Co.",Shipped
+10376,"Boards & Toys Co.",Shipped
+10161,"Heintze Collectables",Shipped
+10314,"Heintze Collectables",Shipped
+10171,"Québec Home Shopping Network",Shipped
+10261,"Québec Home Shopping Network",Shipped
+10411,"Québec Home Shopping Network",Shipped
+10222,"Collectable Mini Designs Co.",Shipped
+10226,"Collectable Mini Designs Co.",Shipped
+10232,giftsbymail.co.uk,Shipped
+10316,giftsbymail.co.uk,Shipped
+10136,"Alpha Cognac",Shipped
+10178,"Alpha Cognac",Shipped
+10397,"Alpha Cognac",Shipped
+10280,"Amica Models & Co.",Shipped
+10293,"Amica Models & Co.",Shipped
+10134,"Lyon Souveniers",Shipped
+10356,"Lyon Souveniers",Shipped
+10395,"Lyon Souveniers",Shipped
+10216,"Auto Associés & Cie.",Shipped
+10304,"Auto Associés & Cie.",Shipped
+10191,"Toms Spezialitäten, Ltd",Shipped
+10310,"Toms Spezialitäten, Ltd",Shipped
+10235,"Royal Canadian Collectables, Ltd.",Shipped
+10283,"Royal Canadian Collectables, Ltd.",Shipped
+10148,"Anna's Decorations, Ltd",Shipped
+10169,"Anna's Decorations, Ltd",Shipped
+10370,"Anna's Decorations, Ltd",Shipped
+10391,"Anna's Decorations, Ltd",Shipped
+10106,"Rovelli Gifts",Shipped
+10173,"Rovelli Gifts",Shipped
+10328,"Rovelli Gifts",Shipped
+10139,"Souveniers And Things Co.",Shipped
+10270,"Souveniers And Things Co.",Shipped
+10361,"Souveniers And Things Co.",Shipped
+10420,"Souveniers And Things Co.","In Process"
+10285,"Marta's Replicas Co.",Shipped
+10305,"Marta's Replicas Co.",Shipped
+10225,"Vida Sport, Ltd",Shipped
+10287,"Vida Sport, Ltd",Shipped
+10284,"Norway Gifts By Mail, Co.",Shipped
+10301,"Norway Gifts By Mail, Co.",Shipped
+10151,"Oulu Toy Supplies, Inc.",Shipped
+10239,"Oulu Toy Supplies, Inc.",Shipped
+10373,"Oulu Toy Supplies, Inc.",Shipped
+10221,"Petit Auto",Shipped
+10273,"Petit Auto",Shipped
+10423,"Petit Auto","In Process"
+10195,"Mini Classics",Shipped
+10308,"Mini Classics",Shipped
+10143,"Mini Creations Ltd.",Shipped
+10185,"Mini Creations Ltd.",Shipped
+10365,"Mini Creations Ltd.",Shipped
+10159,"Corporate Gift Ideas Co.",Shipped
+10162,"Corporate Gift Ideas Co.",Shipped
+10381,"Corporate Gift Ideas Co.",Shipped
+10384,"Corporate Gift Ideas Co.",Shipped
+10132,"Down Under Souveniers, Inc",Shipped
+10254,"Down Under Souveniers, Inc",Shipped
+10354,"Down Under Souveniers, Inc",Shipped
+10393,"Down Under Souveniers, Inc",Shipped
+10404,"Down Under Souveniers, Inc",Shipped
+10129,"Stylish Desk Decors, Co.",Shipped
+10175,"Stylish Desk Decors, Co.",Shipped
+10351,"Stylish Desk Decors, Co.",Shipped
+10233,"Tekni Collectables Inc.",Shipped
+10251,"Tekni Collectables Inc.",Shipped
+10401,"Tekni Collectables Inc.","On Hold"
+10152,"Australian Gift Network, Co",Shipped
+10174,"Australian Gift Network, Co",Shipped
+10374,"Australian Gift Network, Co",Shipped
+10141,"Suominen Souveniers",Shipped
+10247,"Suominen Souveniers",Shipped
+10363,"Suominen Souveniers",Shipped
+10183,"Classic Gift Ideas, Inc",Shipped
+10307,"Classic Gift Ideas, Inc",Shipped
+10177,"CAF Imports",Shipped
+10231,"CAF Imports",Shipped
+10160,"Men 'R' US Retailers, Ltd.",Shipped
+10209,"Men 'R' US Retailers, Ltd.",Shipped
+10122,"Marseille Mini Autos",Shipped
+10344,"Marseille Mini Autos",Shipped
+10364,"Marseille Mini Autos",Shipped
+10121,"Reims Collectables",Shipped
+10137,"Reims Collectables",Shipped
+10343,"Reims Collectables",Shipped
+10359,"Reims Collectables",Shipped
+10398,"Reims Collectables",Shipped
+10202,GiftsForHim.com,Shipped
+10260,GiftsForHim.com,Cancelled
+10410,GiftsForHim.com,Shipped
+10264,Gifts4AllAges.com,Shipped
+10295,Gifts4AllAges.com,Shipped
+10414,Gifts4AllAges.com,"On Hold"
+10100,"Online Diecast Creations Co.",Shipped
+10192,"Online Diecast Creations Co.",Shipped
+10322,"Online Diecast Creations Co.",Shipped
+10147,"Collectables For Less Inc.",Shipped
+10274,"Collectables For Less Inc.",Shipped
+10369,"Collectables For Less Inc.",Shipped
+10116,"Royale Belge",Shipped
+10144,"Royale Belge",Shipped
+10338,"Royale Belge",Shipped
+10366,"Royale Belge",Shipped
+10119,"Salzburg Collectables",Shipped
+10269,"Salzburg Collectables",Shipped
+10341,"Salzburg Collectables",Shipped
+10419,"Salzburg Collectables",Shipped
+10108,"Cruz & Sons Co.",Shipped
+10198,"Cruz & Sons Co.",Shipped
+10330,"Cruz & Sons Co.",Shipped
+10176,"L'ordine Souveniers",Shipped
+10266,"L'ordine Souveniers",Shipped
+10416,"L'ordine Souveniers",Shipped
+10258,"Tokyo Collectables, Ltd",Shipped
+10339,"Tokyo Collectables, Ltd",Shipped
+10372,"Tokyo Collectables, Ltd",Shipped
+10408,"Tokyo Collectables, Ltd",Shipped
+10211,"Auto Canal+ Petit",Shipped
+10252,"Auto Canal+ Petit",Shipped
+10402,"Auto Canal+ Petit",Shipped
+10234,"Extreme Desk Decorations, Ltd",Shipped
+10268,"Extreme Desk Decorations, Ltd",Shipped
+10418,"Extreme Desk Decorations, Ltd",Shipped
+10296,"Bavarian Collectables Imports, Co.",Shipped
+10115,"Classic Legends Inc.",Shipped
+10163,"Classic Legends Inc.",Shipped
+10337,"Classic Legends Inc.",Shipped
+10131,"Gift Ideas Corp.",Shipped
+10146,"Gift Ideas Corp.",Shipped
+10353,"Gift Ideas Corp.",Shipped
+10167,"Scandinavian Gift Ideas",Cancelled
+10291,"Scandinavian Gift Ideas",Shipped
+10389,"Scandinavian Gift Ideas",Shipped
+10250,"The Sharp Gifts Warehouse",Shipped
+10257,"The Sharp Gifts Warehouse",Shipped
+10400,"The Sharp Gifts Warehouse",Shipped
+10407,"The Sharp Gifts Warehouse","On Hold"
+10164,"Mini Auto Werke",Resolved
+10170,"Mini Auto Werke",Shipped
+10392,"Mini Auto Werke",Shipped
+10196,"Super Scale Inc.",Shipped
+10245,"Super Scale Inc.",Shipped
+10242,"Microscale Inc.",Shipped
+10319,"Microscale Inc.",Shipped
+10126,"Corrida Auto Replicas, Ltd",Shipped
+10214,"Corrida Auto Replicas, Ltd",Shipped
+10348,"Corrida Auto Replicas, Ltd",Shipped
+10166,FunGiftIdeas.com,Shipped
+10321,FunGiftIdeas.com,Shipped
+10388,FunGiftIdeas.com,Shipped
+10193,"Australian Collectables, Ltd",Shipped
+10265,"Australian Collectables, Ltd",Shipped
+10415,"Australian Collectables, Ltd",Disputed
+10157,"Frau da Collezione",Shipped
+10218,"Frau da Collezione",Shipped
+10199,"West Coast Collectables Co.",Shipped
+10215,"West Coast Collectables Co.",Shipped
+10184,"Iberia Gift Imports, Corp.",Shipped
+10303,"Iberia Gift Imports, Corp.",Shipped
+10109,"Motor Mint Distributors Inc.",Shipped
+10236,"Motor Mint Distributors Inc.",Shipped
+10331,"Motor Mint Distributors Inc.",Shipped
+10149,"Signal Collectibles Ltd.",Shipped
+10219,"Signal Collectibles Ltd.",Shipped
+10186,"Double Decker Gift Stores, Ltd",Shipped
+10213,"Double Decker Gift Stores, Ltd",Shipped
+10207,"Diecast Collectables",Shipped
+10243,"Diecast Collectables",Shipped
+10138,"Kelly's Gift Shop",Shipped
+10179,"Kelly's Gift Shop",Cancelled
+10360,"Kelly's Gift Shop",Shipped
+10399,"Kelly's Gift Shop",Shipped
