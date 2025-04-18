@@ -1,0 +1,11 @@
+TASK 8: Simple Sales Dashboard Design
+Objective:
+Create a basic interactive dashboard that shows sales performance by product, region, and month.
+🛠 Tools:
+Power BI or Tableau (choose one)
+(Optional: Python + Pandas for cleaning)
+📁 Dataset:
+Superstore_Sales.csv (Columns: Order Date, Region, Category, Sales, Profit)/ ANY DATA SET
+📦 Deliverables:
+1 screenshot or PDF export of the dashboard
+3–4 insights written in a text file or slide
